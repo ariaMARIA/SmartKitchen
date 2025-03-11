@@ -1,0 +1,24 @@
+banana,12 pieces,2025-03-05,89,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/banana.jpg
+avocado,5 pieces,2025-06-06,160,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/avocado.jpg
+mango,4 kg,2025-08-07,60,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/mango.jpg
+beef,2kg,2025-03-05,250,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/beef.jpg
+chili,250g,2025-03-05,40,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/chili.jpg
+cheese,500g,2025-03-05,402,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/cheese.jpg
+milk,2 liter,2025-03-04,42,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/milk.jpg
+salt,2 kg,2025-03-05,0,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/salt.jpg
+carrot,2 kg,2025-06-06,41,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/carrot.jpg
+onion,5 kg,2025-02-04,40,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/onion.jpg
+chicken,4 kg,2025-03-02,165,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/chicken.jpg
+avocado,5 pieces,2025-03-05,160,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/avocado.jpg
+broccoli,1 kg,2025-07-04,34,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/broccoli.jpg
+cheese,500g,2025-08-05,402,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/cheese.jpg
+tomato,3 kg,2025-04-03,18,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/tomato.jpg
+orange,1kg,2025-04-08,43,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/orange.jpg
+egg,12,2025-03-03,155,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/egg.jpg
+sunflower_oil,2liter,2025-04-03,23,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/sunflower_oil.jpg
+bread,2 packet,2025-04-06,250,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/bread.jpg
+sushi-roll,6 pieces,2025-03-29,300,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/sushi-roll.png
+rice,45kg,2025-03-05,130,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/rice.png
+carrot,0.5kg,2025-03-05,41,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/carrot.jpg
+apple,2kg,2025-30-05,52,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/apple.jpg
+salmon,3kg,2025-07-23,54,file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/salmon.png

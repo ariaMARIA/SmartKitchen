@@ -1,0 +1,7 @@
+file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/cheese.jpg,cheese,20
+file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/chili.jpg,chili,8
+file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/egg.jpg,egg,3
+file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/beef.jpg,beef,1
+file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/rice.png,rice,5
+file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/cheese.jpg,cheese,50
+file:/C:/Users/ELiTE/IdeaProjects/demo2/smartkitchenn/src/main/resources/images/salt.jpg,salt,1
