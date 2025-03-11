@@ -1,0 +1,5 @@
+FXMLLoader loader = new FXMLLoader(getClass().getResource("/path/to/MyUI.fxml"));
+Parent root = loader.load();
+Scene scene = new Scene(root);
+primaryStage.setScene(scene);
+primaryStage.show();
